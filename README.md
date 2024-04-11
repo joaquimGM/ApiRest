@@ -48,29 +48,29 @@ npm start
 
 ### Put 
 We add a task.
-![Getting Started](images/post.png)
+![Getting Started](./src/docs/images/post.png)
 
 ### Check new task on list
 We get the list and check our new task is added.
 
-![Getting Started](images/getNew.png)
+![Getting Started](./src/docs/images/getNew.png)
 
 ### Complete 
 We complete a task.
 
-![Getting Started](images/complete.png)
+![Getting Started](./src/docs/images/complete.png)
 
 ### Check completed task on list
 We get the list and check our task is completed.
 
-![Getting Started](images/getComplete.png)
+![Getting Started](./src/docs/images/getComplete.png)
 
 ### Delete 
 We delete a task.
 
-![Getting Started](images/delete.png)
+![Getting Started](./src/docs/images/delete.png)
 
 ### Check deleted task on list
 We get the list and check our task is deleted.
 
-![Getting Started](images/getDelete.png)
+![Getting Started](./src/docs/images/getDelete.png)
